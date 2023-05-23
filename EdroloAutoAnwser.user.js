@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Edrolo Auto Anwser
 // @author       idkfelix
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/idkfelix/Edrolo-Auto-Anwser
 // @version      1.0.0
 // @description  Press f2 to automatically select the correct option in a multiple-choice question and click the Save & continue button
 // @match        *://edrolo.com.au/*
